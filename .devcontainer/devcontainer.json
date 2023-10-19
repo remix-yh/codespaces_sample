@@ -9,5 +9,5 @@
         "twxs.cmake",
         "ms-vscode.cmake-tools"
     ],
-    "remoteUser": "ros"
+    "remoteUser": "root"
 }
